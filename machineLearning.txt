@@ -1,0 +1,10 @@
+#Twitter Sentiment Analysis LSTM link
+
+https://www.kaggle.com/code/kritanjalijain/twitter-sentiment-analysis-lstm
+here u can find a machine learning algorithm which takes someone's twitter/X account and analyses their last 10 tweets,likes,reposts and catogorises them into 
+
+Positive
+Negative
+Neutral 
+
+Along with a bar graph for better visualisation
